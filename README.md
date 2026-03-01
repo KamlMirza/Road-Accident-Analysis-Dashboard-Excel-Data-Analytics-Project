@@ -75,6 +75,3 @@ Higher urban casualty rates are likely influenced by traffic density, intersecti
   - Reduced daylight hours
   - Weather transitions
   - Increased traffic during seasonal periods
-
-- Treemaps
-- Interactive Slicers
