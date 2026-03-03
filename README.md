@@ -73,9 +73,10 @@ Higher urban casualty rates are likely influenced by traffic density, intersecti
 - Casualty patterns in 2022 remained relatively consistent with 2021.
 - A recurring peak is observed in **November**, potentially due to:
 - Reduced daylight hours
+- Weather transitions
+- Increased traffic during seasonal periods
+
 # Author & Contact
 
 **Kaml Mirza**  
 LinkedIn: www.linkedin.com/in/kaml-mirza-38223034a
-  - Weather transitions
-  - Increased traffic during seasonal periods
